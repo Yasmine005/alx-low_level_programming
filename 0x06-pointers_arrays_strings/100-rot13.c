@@ -21,8 +21,7 @@ for (j = 0; j < 52; j++)
 {
 if (s[i] == data1[j])
 {
-s[i] == datarot[j];
-
+s[i] = datarot[j];
 break;
 }
 }
